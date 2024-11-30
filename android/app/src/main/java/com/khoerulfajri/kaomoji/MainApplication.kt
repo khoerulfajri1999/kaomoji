@@ -1,4 +1,4 @@
-package com.kaomoji
+package com.khoerulfajri.kaomoji
 
 import android.app.Application
 import com.facebook.react.PackageList
